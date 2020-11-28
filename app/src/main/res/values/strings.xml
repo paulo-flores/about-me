@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Paulo Gomes</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        \nLorem ipsum dolor sit amet, consectetur adipiscing elit.
+         \nSuspendisse sed ante vehicula, porta neque vel, cursus dolor.
+         \nSed auctor arcu id augue pretium, in interdum arcu finibus.
+         \nIn tempus orci elit, sit amet blandit lacus tincidunt id.
+         \nPellentesque hendrerit metus nisl, vitae rutrum lorem imperdiet sed.
+         \nSed viverra neque vitae lectus venenatis eleifend.
+         \nDuis ultrices porttitor tortor, nec efficitur urna imperdiet sit amet.
+         \nPraesent luctus mi lorem, nec interdum dolor aliquet eu.
+         \nLorem ipsum dolor sit amet, consectetur adipiscing elit.
+         \nSuspendisse sed ante vehicula, porta neque vel, cursus dolor.
+         \nSed auctor arcu id augue pretium, in interdum arcu finibus.
+         \nIn tempus orci elit, sit amet blandit lacus tincidunt id.
+         \nPellentesque hendrerit metus nisl, vitae rutrum lorem imperdiet sed.
+         \nSed viverra neque vitae lectus venenatis eleifend.
+         \nDuis ultrices porttitor tortor, nec efficitur urna imperdiet sit amet.
+         \nPraesent luctus mi lorem, nec interdum dolor aliquet eu.
+         \nLorem ipsum dolor sit amet, consectetur adipiscing elit.
+         \nSuspendisse sed ante vehicula, porta neque vel, cursus dolor.
+
+    </string>
+    <string name="what_is_your_nickname">What\'s your nickname?</string>
+    <string name="done">Done</string>
+</resources>
